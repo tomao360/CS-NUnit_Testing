@@ -1,0 +1,8 @@
+D:\Programming\Zionet\C#\NUnit\Calc\bin\Debug\Calc.exe.config
+D:\Programming\Zionet\C#\NUnit\Calc\bin\Debug\Calc.exe
+D:\Programming\Zionet\C#\NUnit\Calc\bin\Debug\Calc.pdb
+D:\Programming\Zionet\C#\NUnit\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+D:\Programming\Zionet\C#\NUnit\Calc\obj\Debug\Calc.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Zionet\C#\NUnit\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+D:\Programming\Zionet\C#\NUnit\Calc\obj\Debug\Calc.exe
+D:\Programming\Zionet\C#\NUnit\Calc\obj\Debug\Calc.pdb
